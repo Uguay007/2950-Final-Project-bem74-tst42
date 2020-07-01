@@ -3,4 +3,4 @@ Body type analysis of baseball and soccer players from a variety of leagues and 
 Comparison of body types across sports and positions, including visualizations, predictive modelling, 
 and implementation of a decision tree Machine Learning method to place players in one sport or the other based on body type.
 
-To see final product, open Final Full Analysis file
+To see final product, open 'Final Full Analysis.ipynb' file
